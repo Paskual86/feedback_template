@@ -1,20 +1,10 @@
-#container {
-    width:100%;
-    text-align:center;
-}
-
-#left {
-    float:left;
-    width:100px;
-}
-
-#center {
-    display: inline-block;
-    margin:0 auto;
-    width:100px;
-}
-
-#right {
-    float:right;
-    width:100px;
-}
+.clase1 {
+        background: gray;
+        color: white;
+        text-align: center;
+        width: 100px;
+        height: 50px;
+        border-radius: 8px;
+        font-size: 14px;
+        text-transform: uppercase;
+    }
